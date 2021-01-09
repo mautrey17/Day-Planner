@@ -4,3 +4,5 @@ Description: A simple browser based day planner built from HTML, CSS, and JQuery
 Installation: None required
 
 Usage: Follow the link https://mautrey17.github.io/day-planner/ to the planner. Click on the desired hour's text area and enter task. Clicking the blue button saves the input.
+
+![alt text](assets/images/sampleScreenshot.png)
